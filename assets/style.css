@@ -19,3 +19,11 @@ body {
     background: #ffffff;
     padding: 20px;
 }
+.image {
+    height: 10rem;
+    width: 18rem;
+}
+.icon {
+    height: 30px;
+    width: 30px;
+}
